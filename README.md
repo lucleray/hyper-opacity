@@ -19,3 +19,7 @@ module.exports = {
   // rest of the file
 }
 ```
+
+### More
+
+**hyper-opacity** uses [BrowserWindow.setOpacity()](https://electronjs.org/docs/api/browser-window#winsetopacityopacity-windows-macos).
