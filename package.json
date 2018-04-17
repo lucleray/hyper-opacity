@@ -1,0 +1,9 @@
+{
+  "name": "hyper-opacity",
+  "description": "Set the opacity of your hyper window",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "lucleray",
+  "keywords": ["hyper", "opacity"]
+}
