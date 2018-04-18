@@ -1,7 +1,7 @@
 {
   "name": "hyper-opacity",
-  "version": "0.0.3",
-  "keywords": ["hyper", "opacity"],
+  "version": "0.0.4",
+  "keywords": ["hyper", "hyper-plugin", "opacity"],
   "description": "Set the opacity of your hyper window",
   "main": "index.js",
   "files": ["index.js"],
