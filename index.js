@@ -2,7 +2,7 @@ let opacityConfig = null
 let browserWindowSingleton = null
 
 const trySetOpacity = () => {
-  if (opacityConfig && browserWindowSingleton) {
+  if (opacityConfig && browserWindowSingleton && !browserWindowSingleton.isDestroyed()) {
     browserWindowSingleton.setOpacity(opacityConfig)
   }
 }
