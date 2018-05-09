@@ -1,6 +1,14 @@
 ## hyper-opacity
 
-![Demo](demo.gif)
+* Simple configuration in `.hyper.js`
+* Compatible with any theme
+* Works on MacOS and Windows
+
+<div align="center">
+<p>
+<img src="demo.gif" width="500px" style="border-radius:5px" />
+</p>
+</div>
 
 ### Install
 
