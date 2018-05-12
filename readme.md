@@ -1,5 +1,7 @@
 ## hyper-opacity
 
+Set the opacity of your Hyper terminal
+
 * Simple configuration in `.hyper.js`
 * Compatible with any theme
 * Works on MacOS and Windows
