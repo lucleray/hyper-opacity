@@ -2,9 +2,9 @@
 
 Set the opacity of your Hyper terminal
 
-* Simple configuration in `.hyper.js`
+* Works on **Windows** and **MacOS**
 * Compatible with any theme
-* Works on MacOS and Windows
+* Simple configuration in `.hyper.js`
 
 <div align="center">
 <p>
