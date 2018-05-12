@@ -6,7 +6,7 @@
 
 <div align="center">
 <p>
-<img src="demo.gif" width="500px" style="border-radius:5px" />
+<img alt="demo" src="demo.gif" width="500px" style="border-radius:5px" />
 </p>
 </div>
 
@@ -27,6 +27,27 @@ module.exports = {
   // rest of the file
 }
 ```
+
+### Configure the opacity for focused/unfocused windows
+
+```js
+module.exports = {
+  config: {
+    // rest of the config
+    opacity: {
+      focus: 0.9,
+      blur: 0.5
+    }
+  }
+  // rest of the file
+}
+```
+
+<div align="center">
+<p>
+<img alt="demo focused window" src="demo-focus.gif" width="400px" style="border-radius:5px" />
+</p>
+</div>
 
 ### More
 
