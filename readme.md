@@ -45,7 +45,7 @@ module.exports = {
 
 <div align="center">
 <p>
-<img alt="demo focused window" src="demo-focus.gif" width="400px" style="border-radius:5px" />
+<img alt="demo focused window" src="demo-focus.gif" width="500px" style="border-radius:5px" />
 </p>
 </div>
 
